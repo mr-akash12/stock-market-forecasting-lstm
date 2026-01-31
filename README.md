@@ -5,6 +5,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+🔗 Live Demo
+
+👉 https://stockmaertprediction.vercel.app/
 ---
 
 ## 🚀 Project Overview
